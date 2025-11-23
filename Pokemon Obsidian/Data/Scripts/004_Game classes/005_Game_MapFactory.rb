@@ -450,7 +450,7 @@ module MapFactoryHelper
     # Create cache if doesn't exist
     @@MapDims = [] if !@@MapDims
     # Add map to cache if can't be found
-    if !!!@@MapDims[id]
+    if !@@MapDims[id]
       begin
         map = load_data(sprintf("Data/Map%03d.rxdata", id))
         @@MapDims[id] = [map.width, map.height]
