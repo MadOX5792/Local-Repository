@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Matti\\Documents\\GitHub\\Local-Repository\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matti\\Documents\\GitHub\\Local-Repository\\Pokemon Obsidian\\Data\\Scripts\\004_Game classes\\005_Game_MapFactory.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pokemon Obsidian\\Data\\Scripts\\004_Game classes\\005_Game_MapFactory.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "005_Game_MapFactory.rb",
+              "DocumentMoniker": "C:\\Users\\Matti\\Documents\\GitHub\\Local-Repository\\Pokemon Obsidian\\Data\\Scripts\\004_Game classes\\005_Game_MapFactory.rb",
+              "RelativeDocumentMoniker": "Pokemon Obsidian\\Data\\Scripts\\004_Game classes\\005_Game_MapFactory.rb",
+              "ToolTip": "C:\\Users\\Matti\\Documents\\GitHub\\Local-Repository\\Pokemon Obsidian\\Data\\Scripts\\004_Game classes\\005_Game_MapFactory.rb",
+              "RelativeToolTip": "Pokemon Obsidian\\Data\\Scripts\\004_Game classes\\005_Game_MapFactory.rb",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAiwLwBAAAiAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPY2CgBPz//x9diLpg7969TAe2bBFCFycIznV3Gz8KDJz4Xlv78TcJiW/P3NwWne/o0EdXhwL27NnLMjt9Zt1bA4MHf1lY/v9nYEDBf9jY/r\u002BytDx6sDonEF0vAwMDA0Nw9cNuRo\u002B//8MNlv9/yiGFYcBnDob/NWHM/4UW8P5J3pQWi6I5rf12Eqv3n/8MHv//M3j8/8/v8v7/VIXs/38Ymf//YWL8v9ie7b/0VLb/DMsgWGC56I\u002BCzcUuDAwMDIzlk67azDqgvOf9N3Z2FFMZGBjSBGcz/DApZVgk\u002BR1dikGKWfJLBk\u002BqBRPDf4avAly/X6ErYGT4xxARsowh2uw7AyO6JAMDw8d/H3ke/HlowNSZr32\u002ByP2GqZH8u1PICtzVdjI4KB5gcOX5xRDBh5peRJhEvibyxHnP85\u002B9FC64dvMhNrfiZ4uZPP/9Z/L88//MFqP//88z/P9/nuH/89MM/4VWsP5nWMb2X3GV2sPqrbW6KCYig7imeyVxVSvgmmF41j6m/0ZrzM5O3zFDElk9Nu8x7N61RYaP7Sk/I8M/RhbGzyxMjH\u002BYfv7/xPrmt9Ulbxc/zBAd2gAAyPbHbGbZQkUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-23T04:21:01.886Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"

@@ -1,0 +1,63 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Player's house
+Name = \PN's house
+HealingSpot = 002,10,10
+MapPosition = 0,13,12
+#-------------------------------
+[003]  # Shellcove Village
+Name = Shellcove Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[004]   # Shellcove Lighthouse
+Name = Shellcove Lighthouse
+ShowArea = true
+MapPosition = 0,13,12
+#-------------------------------
+[005]   # Cedar's Study
+Name = Cedar's Study
+ShowArea = true
+MapPosition = 0,13,12
+#-------------------------------
+[006]   # Shellcove Lighthouse Upstairs Outside
+Name = Shellcove Lighthouse Outside Upstairs
+Outdoor = true
+MapPosition = 0,13,12
+#-------------------------------
+[007]   # Netley House
+Name = Netley House
+MapPosition = 0,13,12
+#-------------------------------
+[008]   # Tutorial House Shellcove
+Name = Vincenze House
+MapPosition = 0,13,12
+#-------------------------------
+[009]   # Route 1
+Name = Route 1
+MapPosition = 0,13,12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[010]   # Coastal Cave
+Name = Coastal Cave
+MapPosition = 0,13,12
+ShowArea = true
+#-------------------------------
+[011]   # Coastal Cave Underwater
+Name = Coastal Cave
+MapPosition = 0,13,12
+#-------------------------------
+[012]   # Bubblenook Bay
+Name = Bubblenook Bay
+MapPosition = 0,13,12
+Outdoor = true
+ShowArea = true
+Bicycle = true

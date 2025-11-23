@@ -1,0 +1,168 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[003]  # Shellcove Village
+WaterDay,5
+    40, TENTACOOL, 14, 24
+    20, WAILMER, 21, 25
+    20, LUVDISC, 14, 24
+    10, MANTYKE, 5, 9
+    5, REMORAID, 12, 21
+    5, LAPRAS, 31, 35
+WaterNight,5
+    40, FINNEON, 14, 24
+    40, TENTACOOL, 14, 24
+    10, INKAY, 14, 24 
+    5, TENTACRUEL, 31, 36
+    5, LANTURN, 31, 35
+OldRod
+    60, MAGIKARP, 5, 11
+    40, LUVDISC, 6, 12
+GoodRod
+    40, HORSEA, 12, 19
+    40, FINNEON, 12, 19
+    20, MAGIKARP, 12, 19
+SuperRod
+    40, SEADRA, 32, 36
+    40, LUMINEON, 32, 36
+    10, MALAMAR, 34, 41
+    5, SLIGGOO, 41, 49
+    5, GYARADOS, 36, 40
+    1, RELICANTH, 46, 55
+#-------------------------------
+[009]   # Route 1
+LandDay,20
+    20, SKIDDO, 2, 4
+    20, WATTREL, 2, 4
+    20, GROWLITHE, 2, 4
+    10, WINGULL, 2, 4
+    5, ROOKIDEE, 4, 5
+    5, LARVESTA, 4, 5
+LandNight,20
+    20, ZIGZAGOON, 2, 4
+    20, HOOTHOOT, 2, 4
+    20, KRICKETOT, 2, 4
+    10, HOUNDOUR, 2, 4
+    5, SKIDDO, 4, 5
+    5, SOLOSIS, 4, 5
+WaterDay,5
+    40, TENTACOOL, 14, 24
+    20, WAILMER, 21, 25
+    20, LUVDISC, 14, 24
+    10, MANTYKE, 5, 9
+    5, REMORAID, 12, 21
+    5, LAPRAS, 31, 35
+WaterNight,5
+    40, FINNEON, 14, 24
+    40, TENTACOOL, 14, 24
+    10, INKAY, 14, 24 
+    5, TENTACRUEL, 31, 36
+    5, LANTURN, 31, 35
+OldRod
+    60, MAGIKARP, 5, 11
+    40, LUVDISC, 6, 12
+GoodRod
+    40, HORSEA, 12, 19
+    40, FINNEON, 12, 19
+    20, MAGIKARP, 12, 19
+SuperRod
+    40, SEADRA, 32, 36
+    40, LUMINEON, 32, 36
+    10, MALAMAR, 34, 41
+    5, SLIGGOO, 41, 49
+    5, GYARADOS, 36, 40
+    1, RELICANTH, 46, 55
+HeadbuttLow
+    40, PINECO, 6, 10  
+    10, WEEDLE, 2, 4
+    10, CATERPIE, 2, 4
+    5, GRUBBIN, 2, 4
+    5, FERROSEED, 6, 10
+    5, CHESPIN, 10, 11
+    5, SCYTHER, 10, 11
+    5, PINSIR, 10, 11
+    5, MUNCHLAX, 10, 11
+    5, HERACROSS, 10, 11
+    5, SEEDOT, 6, 10
+HeadbuttHigh
+    40, SEEDOT, 6, 10
+    10, LEDYBA, 2, 4
+    10, SEWADDLE, 2, 4
+    5, GRUBBIN, 2, 4
+    5, FERROSEED, 6, 10
+    5, CHESPIN, 10, 11
+    5, SCYTHER, 10, 11
+    5, PINSIR, 10, 11
+    5, MUNCHLAX, 10, 11
+    5, HERACROSS, 10, 11
+    5, PINECO, 6, 10
+#-------------------------------
+[010]   # Coastal Cave
+#-------------------------------
+[011]   # Coastal Cave Underwater
+#-------------------------------
+[012]   # Bubblenook Bay
+LandDay,20
+    20, SKIDDO, 2, 4
+    20, WATTREL, 2, 4
+    20, GROWLITHE, 2, 4
+    10, WINGULL, 2, 4
+    5, ROOKIDEE, 4, 5
+    5, LARVESTA, 4, 5
+LandNight,20
+    20, ZIGZAGOON, 2, 4
+    20, HOOTHOOT, 2, 4
+    20, KRICKETOT, 2, 4
+    10, HOUNDOUR, 2, 4
+    5, SKIDDO, 4, 5
+    5, SOLOSIS, 4, 5
+WaterDay,5
+    40, TENTACOOL, 14, 24
+    20, WAILMER, 21, 25
+    20, LUVDISC, 14, 24
+    10, MANTYKE, 5, 9
+    5, REMORAID, 12, 21
+    5, LAPRAS, 31, 35
+WaterNight,5
+    40, FINNEON, 14, 24
+    40, TENTACOOL, 14, 24
+    10, INKAY, 14, 24 
+    5, TENTACRUEL, 31, 36
+    5, LANTURN, 31, 35
+OldRod
+    60, MAGIKARP, 5, 11
+    40, LUVDISC, 6, 12
+GoodRod
+    40, HORSEA, 12, 19
+    40, FINNEON, 12, 19
+    20, MAGIKARP, 12, 19
+SuperRod
+    40, SEADRA, 32, 36
+    40, LUMINEON, 32, 36
+    10, MALAMAR, 34, 41
+    5, SLIGGOO, 41, 49
+    5, GYARADOS, 36, 40
+    1, RELICANTH, 46, 55
+HeadbuttLow
+    40, PINECO, 6, 10  
+    10, WEEDLE, 2, 4
+    10, CATERPIE, 2, 4
+    5, GRUBBIN, 2, 4
+    5, FERROSEED, 6, 10
+    5, CHESPIN, 10, 11
+    5, SCYTHER, 10, 11
+    5, PINSIR, 10, 11
+    5, MUNCHLAX, 10, 11
+    5, HERACROSS, 10, 11
+    5, SEEDOT, 6, 10
+HeadbuttHigh
+    40, SEEDOT, 6, 10
+    10, LEDYBA, 2, 4
+    10, SEWADDLE, 2, 4
+    5, GRUBBIN, 2, 4
+    5, FERROSEED, 6, 10
+    5, CHESPIN, 10, 11
+    5, SCYTHER, 10, 11
+    5, PINSIR, 10, 11
+    5, MUNCHLAX, 10, 11
+    5, HERACROSS, 10, 11
+    5, PINECO, 6, 10

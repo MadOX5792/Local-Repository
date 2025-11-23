@@ -1,0 +1,8 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Shellcove Town (3) - Route 1 (9)
+3,North,58,9,South,0
+# Bubblenook Bay (12) - Route 1 (9)
+12,West,0,9,East,0
+# Bubblenook Bay (12) - Shellcove Town (3)
+12,South,0,3,North,130
